@@ -4,7 +4,7 @@ git init .
 git add .
 git commit -am 'Initial commit'
 
-git remote add origin git@github.com:erichelgeson/grails-versions.git
+git remote add origin git@github.com:TheRetroRoot/grails-versions.git
 
 git push origin master -f
 
